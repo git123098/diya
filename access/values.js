@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "12.04.2004"; // Дата рождения
-var fullname = "Чернй Віталій Олександрович" // ФИО
+var fullname = "Хуйлопут Віталій Олександрович" // ФИО
 var name = "Віталій" // Имя
 
 // Паспорт
