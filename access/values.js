@@ -1,5 +1,5 @@
 // Активировать документы (true - включены, false - отключены)
-var isRightsEnabled = false; // Права
+var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
