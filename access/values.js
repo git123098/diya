@@ -3,8 +3,8 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "12.04.2004"; // Дата рождения
-var fullname = "Хуйлопут Віталій Олександрович" // ФИО
+var birthdate = "12.04.2005"; // Дата рождения
+var fullname = "Черній Віталій Олександрович" // ФИО
 var name = "Віталій" // Имя
 
 // Паспорт
